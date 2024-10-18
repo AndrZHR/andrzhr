@@ -6,13 +6,17 @@
 
 # Campbell key network
 
-| ![image](https://github.com/user-attachments/assets/dd783e99-ce49-4700-b37e-552ab1226aef) |  ![image](https://github.com/user-attachments/assets/6b67c62d-70c9-4862-b9a6-53923742201e) | ![image](https://github.com/user-attachments/assets/2f607366-0f16-4f51-ab4f-1b14c32da74c) | ![image](https://github.com/user-attachments/assets/f392ea0b-c83e-48e4-930a-c03d4e5046a6) |
-| :---: | :---: | :---: | :---: |
-| ![image](https://github.com/user-attachments/assets/cd52591c-fdf2-4b99-8d34-7bfff22e2eee) | ![image](https://github.com/user-attachments/assets/469fbebd-14de-478d-9b7c-0f703922e752) | ![image](https://github.com/user-attachments/assets/d3aabe2f-6ace-4a07-8841-b63ee2347ec4) | ![image](https://github.com/user-attachments/assets/c2c83209-3001-4f7e-953c-95d2d9968171) |
+| Логотип 1           | Логотип 2           | Логотип 3           |
+|---------------------|---------------------|---------------------|
+| <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/28485.png" alt="Логотип 1" width="100"/> | <img src="https://mms.businesswire.com/media/20220504005342/en/1442555/23/unnamed.jpg" alt="Логотип 2" width="100"/> | <img src="https://www.cryptoninjas.net/wp-content/uploads/humanode-cryptoninjsa.jpg" alt="Логотип 3" width="100"/> |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3gtBqdKybjxFf-GLJ28UyMFkbZ30z_y1XiQ&s" alt="Логотип 1" width="100"/> | <img src="https://www.blockchainstories.com/wp-content/uploads/2024/03/celestia-960x493.jpeg.webp" alt="Логотип 2" width="100"/> | <img src="https://images.ctfassets.net/lr0atmu04u9z/5VIasxBug9ecbnMWkX29cy/61b981fa9561f1298e54125696c57cbf/Untitled_design__100_.png" alt="Логотип 3" width="100"/> |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHzgXkoRWCuAxnKd4QSLnpRdMvtWHXMscuA&s" alt="Логотип 1" width="100"/> | <img src="https://cdn.prod.website-files.com/64053c5d931f167ecf5997be/6406dde53e750fb7b4e9bf60_el-wordmark2.png" alt="Логотип 2" width="100"/> | <img src="https://blog.sei.io/content/images/size/w2000/2023/05/1_KhPmcq65yCHWdmcoEoPeMQ.webp" alt="Логотип 3" width="100"/> |
+| <img src="https://miro.medium.com/v2/resize:fit:1400/0*yjmZZgHfFBniFzbP" alt="Логотип 1" width="100"/> |
+
 
 ## You can see more information about this in the [Campbell Gitbook ⛺️](https://campbell-2.gitbook.io/campbell-validator#campbell-validator)
 
-## Other Campbell accounts 🌐 [Twitter](https://x.com/Davelle229) | [Discord](https://discord.com/users/960303718304186418) | [Keybase](https://keybase.io/zhrand) | [Medium](https://medium.com/@campbellio) 
+## Other Campbell accounts 🌐 [Twitter](https://x.com/Davelle229) | [Keybase](https://keybase.io/zhrand) | [Medium](https://medium.com/@campbellio) 
 
 
 
